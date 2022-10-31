@@ -1,2 +1,2 @@
 # neochromium-ehunt34
-A hypothetical exploit to install custom firmware on a managed chromebook.
+Not yet done, currently storage to keep a deleted script safe.
